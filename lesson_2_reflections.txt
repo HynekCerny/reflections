@@ -1,0 +1,14 @@
+What happens when you initialize a repository? Why do you need to do it?
+/----------------------------------------------------------------------/
+
+It creates hidden folder called .git, where all the information about the 
+repository and history of tracked files will be stored. It does not, however, 
+make any commit.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+/----------------------------------------------------------------------/
+
+It contains files that will be commited in the next commit. It offers to 
+separate files that I want to updae n the next commit instead of commiting all
+files in my working directory.
