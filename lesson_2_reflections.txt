@@ -12,3 +12,9 @@ repository? What value do you think it offers?
 It contains files that will be commited in the next commit. It offers to 
 separate files that I want to updae n the next commit instead of commiting all
 files in my working directory.
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+/---------------------------------------------------------------------/
+I can run diff on files in staging area and working directory or staging area
+and latest commit.
