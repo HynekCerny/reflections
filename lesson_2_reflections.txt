@@ -18,3 +18,10 @@ logical change?
 /---------------------------------------------------------------------/
 I can run diff on files in staging area and working directory or staging area
 and latest commit.
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+/----------------------------------------------------------------------/
+Eg. when I want to add some experimental feature into project. It would be
+nice to have branches because I can keep developing of the experimental
+featre separate from the production code.
