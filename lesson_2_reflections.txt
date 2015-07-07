@@ -25,3 +25,8 @@ history organized? How would branches help?
 Eg. when I want to add some experimental feature into project. It would be
 nice to have branches because I can keep developing of the experimental
 featre separate from the production code.
+
+How do the diagrams help you visualize the branch structure?
+/----------------------------------------------------------------------/
+I can easyly see parent of any commit and reachebla and unreachable commits
+from branches.
