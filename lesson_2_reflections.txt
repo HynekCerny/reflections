@@ -36,3 +36,10 @@ in the diagram the way we do?
 /-----------------------------------------------------------------------/
 The result is single branch which includes all commits in all merged branches
 sorted by timestamp.
+
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+/-----------------------------------------------------------------------/
+You dont have to allways do it yourself, but sometimes there are changes to
+commits that it cant be decidet automatically how to merge, so you have to
+decide it manually.
