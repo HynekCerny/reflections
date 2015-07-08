@@ -30,3 +30,9 @@ How do the diagrams help you visualize the branch structure?
 /----------------------------------------------------------------------/
 I can easyly see parent of any commit and reachebla and unreachable commits
 from branches.
+
+What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+/-----------------------------------------------------------------------/
+The result is single branch which includes all commits in all merged branches
+sorted by timestamp.
