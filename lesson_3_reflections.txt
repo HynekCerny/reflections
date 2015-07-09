@@ -9,3 +9,10 @@ stay up-to-date with your remote repository?
 /-------------------------------------------------------------------------------------/
 Because I dont allways want to have latest version publicly available. (It may not be 
 working correctly or maybe I want to rwrite it or something).
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+/-------------------------------------------------------------------------------------/
+clones: to copy repository
+forks: similar to clones, only used on GitHubd
+branches: different "versions/states" of the same repository
